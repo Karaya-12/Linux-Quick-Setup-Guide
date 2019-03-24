@@ -49,7 +49,9 @@ Hit "Windows" Button --> Software & Updates
 
 ### 2.1 System Customization
 
-https://blog.csdn.net/lishanleilixin/article/details/80453565
+I've Chosen macOS As My Ubuntu Customization Style
+
+https://blog.csdn.net/lishanleilixin/article/details/80453565  
 https://blog.csdn.net/ice__snow/article/details/80152068
 
 ### 2.2 Install GNOME Tweaks
@@ -119,7 +121,7 @@ $ sudo apt install openjdk-11-jdk
 
 Check Out
 
-https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/
+https://dev.mysql.com/doc/mysql-apt-repo-quick-guide/en/  
 https://blog.csdn.net/zyqblog/article/details/80159990
 
 ```
@@ -199,7 +201,7 @@ Check Out The New Ubuntu Software Shop
 
 Check Out
 
-https://github.com/erguotou520/electron-ssr/s
+https://github.com/erguotou520/electron-ssr
 
 ### 5.9 Install Zenmap (Optional)
 
@@ -207,7 +209,7 @@ https://github.com/erguotou520/electron-ssr/s
 $ sudo apt install nmap / zenmap
 ```
 
-### 6 System Fixing
+### 6 System Crashing & Fixing
 
 ### 6.1 Ubuntu Safe Reboot
 
@@ -217,9 +219,11 @@ $ sudo apt install nmap / zenmap
 3. Type "reisub" (busier) While Holding "Clt + Alt"
 ```
 
-### 6.2 Input Crashing
+### 6.2 IME(Input Method Editor) Crashing (CHS IME)
 
-Remove Sogou Input & fctix Completely
+Sogou IME's Supporting for Linux System is TERRIBLE.
+
+Just Remove Sogou IME & fctix Completely
 
 ```
 Clt + Alt + F2
