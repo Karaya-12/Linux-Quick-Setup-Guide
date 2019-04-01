@@ -45,7 +45,7 @@ $ sudo hwclock --localtime --systohc
 
 Hit "Windows" Button --> Software & Updates
 
-## 2 Customization
+## 2 Basic Softwares & System Customization
 
 ### 2.1 System Customization
 
@@ -99,11 +99,16 @@ $ reboot
 
 https://code.visualstudio.com/
 
-### 3.2 Pycharm / Intellij IDEA / CLion / PhpStorm / DataGrip
+### 3.2 Pycharm / Intellij IDEA / CLion / PhpStorm / DataGrip etc.
 
-Check Out JetBrain's Official Site
-
-Extract & Check Out README
+1. Check Out JetBrain's Official Site
+2. Extract & Check Out `Install-Linux-tar.txt`
+   - or
+   ```
+   cd ./bin
+   ./xxx.sh
+   ```
+3. Tools --> Create Desktop Entry
 
 ### 3.3 Anaconda + Jupyter Notebook
 
@@ -111,10 +116,20 @@ Jupyter Notebook Will be Included In Anaconda
 
 ### 3.4 Install JDK
 
-Latest Version For The Time Being - OpenJDK 11
+Latest Version For The Time Being - OpenJDK 12
+
+1. Using apt Repository to Install OpenJDK 12
 
 ```
-$ sudo apt install openjdk-11-jdk
+$ sudo add-apt-repository ppa:linuxuprising/java
+$ sudo apt update
+$ sudo apt install oracle-java12-installer
+```
+
+2. Making Oracle Java 12 Default
+
+```
+$ sudo apt install oracle-java12-set-default
 ```
 
 ### 3.5 Install MySQL 8
@@ -209,7 +224,7 @@ https://github.com/erguotou520/electron-ssr
 $ sudo apt install nmap / zenmap
 ```
 
-### 6 System Crashing & Fixing
+## 6 System Crashing & Fixing
 
 ### 6.1 Ubuntu Safe Reboot
 
