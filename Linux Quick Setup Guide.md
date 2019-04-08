@@ -150,7 +150,7 @@ $ sudo apt install mysql-server
 
 http://www.sublimetext.com/docs/3/linux_repositories.html
 
-* Package Control Addon
+* Install Package Control Addon Afterwards
 
 ## 4 Nvidia Driver
 
