@@ -150,11 +150,18 @@ $ sudo apt install mysql-server
 
 http://www.sublimetext.com/docs/3/linux_repositories.html
 
+* Start Sublime Text 3 After Installation & Add Desktop Entry
+
+* ```
+  $ subl
+  $ subl --version
+  ```
+
 * Install Package Control Addon Afterwards
 
 ## 4 Nvidia Driver
 
-Check Out
+Check Out The Following Website (CN)
 
 https://blog.csdn.net/tjuyanming/article/details/80862290
 
